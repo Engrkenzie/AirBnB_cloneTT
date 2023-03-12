@@ -6,7 +6,7 @@ clone of AirBnB platform with limited features.
 
 ## Usage
 
-### How Start it
+### How to start it
 
     ./console.py
 
